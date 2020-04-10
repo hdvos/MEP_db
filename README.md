@@ -4,6 +4,7 @@ A database of current and past Members of the European Parliament.
 This database has been created by running queries in wikidata.org. 
 This data was acquired on the 10th of april 2020 and contains the data as it was on this day on wikidata.
 
+The data is in MEP_db.csv.
 The queries, documentation and code to re-create the data are all in MEP_data_cleaner.ipynb.
 
 The table contains the following columns
