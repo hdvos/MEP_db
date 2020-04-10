@@ -19,4 +19,8 @@ The table contains the following columns
 
 Every column except the date columns also have an id column. This is constructed by concatenating \_id to the column name. So in the case of MEP_name this becomes MEP_name_id. These columns contain an unique URL to the objects entry in wikidata.
 
+If an MEP served multiple terms, it has multiple rows in the table, each row representing one term.
+
+If certain information was not in wikidata, the cell is left blank.
+
 NOTE: this is only a selection of data from wikidata. So the limitations of wikidata are the same as the limitations for this data. I make no claims about the correctness and completeness of the data.
