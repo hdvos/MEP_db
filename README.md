@@ -23,4 +23,4 @@ If an MEP served multiple terms, it has multiple rows in the table, each row rep
 
 If certain information was not in wikidata, the cell is left blank.
 
-NOTE: this is only a selection of data from wikidata. So the limitations of wikidata are the same as the limitations for this data. I make no claims about the correctness and completeness of the data.
+NOTE: this is only a selection of data from wikidata. So the limitations of wikidata are the same as the limitations for this data. I don't guarantee correctness and completeness of the data.
