@@ -2,10 +2,10 @@
 A database of current and past Members of the European Parliament.
 
 This database has been created by running queries in wikidata.org. 
-This data was acquired on the 10th of april 2020 and contains the data as it was on this day on wikidata.
+The current database was compiled on the 10th of april 2020 and contains the data as it was on this day on wikidata.
 
 The data is in MEP_db.csv.
-The queries, documentation and code to re-create the data are all in MEP_data_cleaner.ipynb.
+The queries, documentation and code to re-create the data are all in MEP_data_cleaner.ipynb. I don't actively maintain the code, so it is not guaranteed to work.
 
 The table contains the following columns
 * **MEP_name**: The name of the member of parliament
@@ -23,4 +23,6 @@ If an MEP served multiple terms, it has multiple rows in the table, each row rep
 
 If certain information was not in wikidata, the cell is left blank.
 
-NOTE: this is only a selection of data from wikidata. So the limitations of wikidata are the same as the limitations for this data. I don't guarantee correctness and completeness of the data.
+**NOTE:** this is only a selection of data from wikidata. So the limitations of wikidata are the same as the limitations for this data. I don't guarantee correctness and completeness of the data.
+
+Although I don't actively maintain this, you can always contact me with questions.
