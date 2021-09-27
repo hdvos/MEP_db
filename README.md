@@ -9,7 +9,7 @@ The queries, documentation and code to re-create the data are all in MEP_data_cl
 
 The table contains the following columns
 * **MEP_name**: The name of the member of parliament
-* **national_party**: the national party the MEP represents.
+* **national_party**: the (english name of the) national party the MEP represents.
 * **EU_parliament_group**: The eu parliament group/fraction the MEP is part of.
 * **EU_electoral_district**: The electoral district from which the MEP was chosen.
 * **elected_in_country**: The country the electoral district is in.
